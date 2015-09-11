@@ -10,5 +10,5 @@ When deciding on a project to start I always try to think of problems I myself h
 or simply things I wish didn't take so long. At the moment I have a few different ideas but until I narrow it down to just one I
 can't be sure which one I want to work on best.
 
-![alt-text](https://github.com/winstonian32/csci2961/Maze.PNG)
-![alt-text](https://github.com/winstonian32/csci2961/regex.PNG)
+![alt-text](https://raw.githubusercontent.com/winstonian32/csci2961/master/Maze.PNG)
+![alt-text](https://raw.githubusercontent.com/winstonian32/csci2961/master/regex.PNG)
