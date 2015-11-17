@@ -117,7 +117,7 @@ function readURL(theURL,theNAME,xmlString,file_info) {
 
 
 
-function AnalyseLinks(document_root) {
+function AnalyzeLinks(document_root) {
     var file_info = {strings: []};
     var infoTable = "";
     var link_lis = GetDocs(document_root);

@@ -83,7 +83,7 @@ function readURL(theURL,theNAME,xmlString,document_root,message,term,total_len) 
     xmlString.send(); 
 }
 
-function AnalyseLinks(link_lis,document_root,message,term) {
+function AnalyzeLinks(link_lis,document_root,message,term) {
     console.log("THIS MANY LINKS",link_lis.length);
     var next_lis = [];
     var arr_info = [];
@@ -142,7 +142,7 @@ function listenForInp() {
                 final_s = [];
                 //console.log(message);
                 message.innerHTML = "<img align = \"middle\" src=\"loader.gif\">";
-                AnalyseLinks(page_html.term_array,document,message,term.value);
+                AnalyzeLinks(page_html.term_array,document,message,term.value);
             };
     }
     
